@@ -1,9 +1,12 @@
-## Hi there 👋
+<h2 align="center">Hi, I'm Marcus! 👋</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MunchyYDL&theme=radical&show_icons=true&rank_icon=github&custom_title=MunchyYDL's%20GitHub%20Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MunchyYDL&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunchyYDL&theme=radical&show_icons=true&hide_border=false&layout=compact&langs_count=6" />
+</p>
 
 <!--
-**MunchyYDL/MunchyYDL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
